@@ -68,9 +68,9 @@ def get_data():
                 },
                 {
                     "type": "doctype",
-                    "name": "Software Version",
-                    "label": _("Software Version"),
-                    "description": _("Software Version")
+                    "name": "ITM Software Version",
+                    "label": _("ITM Software Version"),
+                    "description": _("ITM Software Version")
                 },
                 {
                     "type": "doctype",
